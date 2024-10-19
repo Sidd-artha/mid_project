@@ -6,7 +6,7 @@ This Python application processes customer orders for a Dosa restaurant. It read
 
 2. Clone this repository to your local environment to get started:
 
-git clone https://github.com/yourusername/midterm_project.git
+git clone https://github.com/Sidd-artha/mid_project.git
 
 cd midterm_project
 
